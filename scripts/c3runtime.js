@@ -5083,6 +5083,8 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.SetGroupActive,
 		C3.Plugins.System.Acts.Wait,
 		C3.Plugins.System.Acts.GoToLayout,
+		C3.ScriptsInEvents.Game_Event46_Act7,
+		C3.ScriptsInEvents.Game_Event46_Act8,
 		C3.Plugins.System.Acts.SubVar,
 		C3.Plugins.LocalStorage.Acts.SetItem,
 		C3.Plugins.System.Cnds.OnLayoutStart,
